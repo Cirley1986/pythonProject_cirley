@@ -18,6 +18,8 @@ elem = driver.find_element_by_css_selector(".fc-icon.fc-icon-chevron-right").cli
 elem = driver.find_element_by_xpath("//a[text()='18' and @class='fc-daygrid-day-number']").click()
 elem = driver.find_element_by_xpath("//li[@class='options li-selected'][1]").click()
 
+#Por aca estuvo Jonathan
+
 
 
 
